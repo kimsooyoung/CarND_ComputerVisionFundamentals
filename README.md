@@ -1,10 +1,13 @@
 # CarND_ComputerVisionFundamentals
 
+```
 git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
 cd CarND-Term1-Starter-Kit
 conda env create -f environment.yml - tensorflow==0.12.1
+
 Note: Some Mac users have reported issues installing TensorFlow using this method. The cause is unknown but seems to be related to pip. For the time being, we recommend opening environment.yml in a text editor and swapping
 conda env remove -n carnd-term1
+```
 
 ```bash
 # NOTE: This is DIFFERENT from  https://github.com/udacity/CarND-Term1-Starter-Kit.git
